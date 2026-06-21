@@ -442,7 +442,7 @@ Se precisar de texto argumentativo na página, o formato certo é Mini Carta ou 
 │                                                │
 │  ┌──────────────────────────────────────────┐ │
 │  │                                           │ │
-│  │      [PLAYER DA MICRO AULA · 10min]      │ │
+│  │     [PLAYER DO MINI WEBINAR · 10min]     │ │
 │  │                                           │ │
 │  └──────────────────────────────────────────┘ │
 │                                                │
