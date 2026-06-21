@@ -173,7 +173,7 @@ Cada um vai pra um destino específico no sistema Soft.
 **Risco se não integrar:** vira base "esfriando" que só será acionada no próximo lançamento.
 
 **Destino Soft:**
-- Entram no fluxo da **Carta Minimalista** (`soft-z2-desejo` puxa a estrutura)
+- Entram no fluxo da **Mini Carta** (`soft-z2-desejo` puxa a estrutura)
 - Recebem sequência de e-mail/WhatsApp leve por 30-45 dias com conteúdo que reforça o método (não o lançamento)
 - Entram no público de remarketing dos Carrosséis 3C e Reels Lo-fi do conteúdo Z1
 - Stories CARO do dia-a-dia continua endereçando dores deles (audiência crescida)
@@ -204,7 +204,7 @@ Cada um vai pra um destino específico no sistema Soft.
 **Destino Soft:**
 - Pesquisa pós-compra → insumo pra `soft-plano-posicionamento` atualizar avatar e Posicionamento Incomum
 - Objeções recorrentes → entram no banco de objeções da `soft-z3-conversao`
-- Padrões observados na aula → ajusta linguagem da Carta Minimalista
+- Padrões observados na aula → ajusta linguagem da Mini Carta
 - Insights sobre o nicho → alimentam carrosséis e reels do próximo trimestre
 
 **Resultado:** dados do lançamento ficam vivos no sistema Soft, não engavetados pro próximo evento.

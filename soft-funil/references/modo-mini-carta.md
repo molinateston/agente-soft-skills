@@ -1,6 +1,6 @@
-# Modo Carta Minimalista
+# Modo Mini Carta
 
-> **Quando usar:** produção completa de Carta Minimalista pronta pra colar em Notion (ou Google Docs como fallback). A skill entrega texto **diagramado**, não bruto.
+> **Quando usar:** produção completa de Mini Carta pronta pra colar em Notion (ou Google Docs como fallback). A skill entrega texto **diagramado**, não bruto.
 >
 > **O que entrega:** Carta completa em markdown Notion-compatível · diagramação caso a caso (sem template fixo) · pronta pra publicar em 4-7 minutos de leitura.
 >
@@ -10,7 +10,7 @@
 
 ## 1. O que este modo entrega
 
-A Carta Minimalista é a peça central da desejo. Substitui:
+A Mini Carta é a peça central da desejo. Substitui:
 - Reunião de apresentação
 - Funil complexo (5+ páginas)
 - VSL longa de 30 minutos
@@ -37,7 +37,7 @@ A maioria das skills de copy entrega **texto bruto** que o cliente precisa diagr
 | Cliente pediu Carta direto sem briefing | Roteia primeiro pra `discurso-base-7-passos.md` (briefing) |
 | Cliente pediu landing page completa com VSL | Roteia pra skill `soft-funil` (separada) |
 | Cliente pediu webinar | Roteia pra skill `soft-leon` (separada) |
-| Cliente quer versão em vídeo da Carta | Roteia pra `modo-micro-aula.md` (alternativa à Carta) |
+| Cliente quer versão em vídeo da Carta | Roteia pra `modo-mini-webinar.md` (alternativa à Carta) |
 | Ticket alto · cliente quer aprofundar | Considerar Webinar (skill `soft-leon`) ou Reunião Soft (conversão) como complemento |
 
 ### Faixa de ticket, Carta basta?
@@ -473,6 +473,6 @@ Pré-leitura recomendada antes de publicar: 1 leitura completa em silêncio cron
 | Tom Soft amplo (qualquer formato) | `shared-references/dicionario-conversacional.md` |
 | Adaptação semântica pro nicho do cliente | `shared-references/adaptacao-semantica.md` |
 | Aplicação nos 7 passos | `shared-guia/CODIGO-DE-ESCRITA.md` |
-| Versão em vídeo (alternativa à Carta) | `modo-micro-aula.md` |
+| Versão em vídeo (alternativa à Carta) | `modo-mini-webinar.md` |
 | Landing page com VSL ou multimídia | skill `soft-funil` (separada) |
 | Webinar ao vivo ou perpétuo | skill `soft-leon` (separada) |

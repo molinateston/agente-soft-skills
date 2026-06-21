@@ -178,9 +178,9 @@ Etapa 5 — Plano priorizado + filtros anti-ia/mobile-first + G1–G10. Output: 
 ## Quando NÃO usar (filtro)
 
 - Sem Posicionamento Incomum cravado → `soft-posicionamento` primeiro.
-- Cliente quer Carta ou Micro Aula (o Funil Soft) → `soft-funil`; carrossel/reel/stories → `soft-conteudo`; script 1:1 → `soft-vendas`.
+- Cliente quer Carta ou Mini Webinar (o Funil Soft) → `soft-funil`; carrossel/reel/stories → `soft-conteudo`; script 1:1 → `soft-vendas`.
 - Ticket muito baixo (R$50-300) → o webinário não paga estrutura, sugere Carta.
-- Cliente em dúvida entre Carta / Micro Aula / Webinário, OU pedindo webinar sem maturidade (audiência + oferta + repertório ao vivo) → a decisão mora em `escolha-carta-mt-webinario.md`; falta maturidade, devolve pro `soft-funil`.
+- Cliente em dúvida entre Carta / Mini Webinar / Webinário, OU pedindo webinar sem maturidade (audiência + oferta + repertório ao vivo) → a decisão mora em `escolha-carta-mt-webinario.md`; falta maturidade, devolve pro `soft-funil`.
 
 ---
 

@@ -1,25 +1,25 @@
-# Modo Micro Aula, vídeo de 10min em 12 blocos
+# Modo Mini Webinar, vídeo de 10min em 12 blocos
 
-> **Quando consultar:** quando o cliente pede Micro Aula, mini aula, ou versão em vídeo da Carta. Pré-requisito: 6 entradas do briefing desejo capturadas (cliente ideal · problema Problema Avançado · soluções comuns · método nomeado · cases · oferta).
-
----
-
-## A Micro Aula é a Carta com câmera
-
-Mesma engenharia da Carta Minimalista. Mesma função na desejo (filtra · explica · desperta desejo). Mídia diferente: vídeo de 10 minutos.
-
-Cliente escolhe Carta OU Micro Aula. Não usa as duas simultaneamente.
+> **Quando consultar:** quando o cliente pede Mini Webinar, mini aula, ou versão em vídeo da Carta. Pré-requisito: 6 entradas do briefing desejo capturadas (cliente ideal · problema Problema Avançado · soluções comuns · método nomeado · cases · oferta).
 
 ---
 
-## Quando recomendar Micro Aula em vez de Carta
+## A Mini Webinar é a Carta com câmera
+
+Mesma engenharia da Mini Carta. Mesma função na desejo (filtra · explica · desperta desejo). Mídia diferente: vídeo de 10 minutos.
+
+Cliente escolhe Carta OU Mini Webinar. Não usa as duas simultaneamente.
+
+---
+
+## Quando recomendar Mini Webinar em vez de Carta
 
 | Cenário | Recomendação |
 |---|---|
-| Cliente prefere consumir vídeo a ler | Micro Aula |
-| Nicho onde o público engaja mais com vídeo | Micro Aula |
-| Cliente já tem audiência em vídeo (YouTube, Reels) | Micro Aula |
-| Especialista tem cara de câmera natural | Micro Aula |
+| Cliente prefere consumir vídeo a ler | Mini Webinar |
+| Nicho onde o público engaja mais com vídeo | Mini Webinar |
+| Cliente já tem audiência em vídeo (YouTube, Reels) | Mini Webinar |
+| Especialista tem cara de câmera natural | Mini Webinar |
 | Especialista NÃO tem disposição pra gravar vídeo | Carta |
 | Nicho regulado (saúde clínica, jurídico, terapia profunda) | Carta |
 
@@ -27,7 +27,7 @@ Cliente escolhe Carta OU Micro Aula. Não usa as duas simultaneamente.
 
 ## Princípio estrutural
 
-Micro Aula segue **4 fases sequenciais** (Atenção → Interesse → Desejo → Ação), mesma macro do webinário Soft, comprimida pra 10 minutos.
+Mini Webinar segue **4 fases sequenciais** (Atenção → Interesse → Desejo → Ação), mesma macro do webinário Soft, comprimida pra 10 minutos.
 
 **Duração ideal:** 9 a 11 minutos. Acima disso retenção cai. Abaixo de 9 perde valor percebido.
 
@@ -44,9 +44,9 @@ Mesmas proporções do webinário (Atenção 12% · Interesse 20% · Desejo 40% 
 
 ---
 
-## Mapeamento Discurso Base (7 passos) → 12 blocos da Micro Aula
+## Mapeamento Discurso Base (7 passos) → 12 blocos da Mini Webinar
 
-| Discurso Base | Onde aparece na Micro Aula |
+| Discurso Base | Onde aparece na Mini Webinar |
 |---|---|
 | 1. Gancho | Atenção (Promessa direta) |
 | 2. Diagnóstico | Interesse (Problema geral) |
@@ -127,7 +127,7 @@ Mesmas proporções do webinário (Atenção 12% · Interesse 20% · Desejo 40% 
 
 ---
 
-## DESEJO (3:00 a 9:00), coração da Micro Aula
+## DESEJO (3:00 a 9:00), coração da Mini Webinar
 
 > Função: apresenta o método como cura. Lead pensa *"isso é real, tem prova, e cabe na minha realidade"*.
 
@@ -175,7 +175,7 @@ Mesmas proporções do webinário (Atenção 12% · Interesse 20% · Desejo 40% 
 > *Você configura uma vez e nunca mais precisa mexer."*
 
 **Exemplo (Soft Marketing):**
-> *"E eu pessoalmente quero te ajudar a implementar o Soft Marketing. Funciona assim: tem 3 peças, Posicionamento Incomum, Carta Minimalista e Reel Lo-fi.*
+> *"E eu pessoalmente quero te ajudar a implementar o Soft Marketing. Funciona assim: tem 3 peças, Posicionamento Incomum, Mini Carta e Reel Lo-fi.*
 >
 > *Quando o lead entra no seu perfil, ele lê a bio que filtra na hora, clica no link da Carta, lê em 4 minutos e já chega no seu WhatsApp pré-qualificado. Tudo sem você intervir.*
 >
@@ -191,7 +191,7 @@ Mesmas proporções do webinário (Atenção 12% · Interesse 20% · Desejo 40% 
 > *"Pra montar isso na sua realidade, você vai [PASSO 1 CONCRETO]. Depois você [PASSO 2 CONCRETO]. E aí [PASSO 3 CONCRETO]. No total, [TEMPO DE EXECUÇÃO]."*
 
 **Exemplo (Soft Marketing):**
-> *"Pra montar o Soft Marketing na sua realidade, você vai primeiro escrever sua Carta Minimalista em 4 blocos: quem é, qual problema, qual método, como entrar. Isso leva uma manhã. Depois você grava 1 reel por dia, em 1 minuto, na mesa, sem produção. E aí responde no WhatsApp quem chega. No total: 1 manhã pra montar, 30 minutos por dia pra rodar."*
+> *"Pra montar o Soft Marketing na sua realidade, você vai primeiro escrever sua Mini Carta em 4 blocos: quem é, qual problema, qual método, como entrar. Isso leva uma manhã. Depois você grava 1 reel por dia, em 1 minuto, na mesa, sem produção. E aí responde no WhatsApp quem chega. No total: 1 manhã pra montar, 30 minutos por dia pra rodar."*
 
 **Princípio:** reduz abstração do método. Lead consegue se ver fazendo, em poucos passos.
 
@@ -336,10 +336,10 @@ Antes de produzir, confirma com cliente:
 - Tem garantia? Se sim, inclui em 1 frase no Bloco A.1.
 
 ### Passo 3, Discurso Base
-Produz versão-mestre dos 7 passos (`discurso-base-7-passos.md`). Esse Discurso alimenta tanto Carta quanto Micro Aula.
+Produz versão-mestre dos 7 passos (`discurso-base-7-passos.md`). Esse Discurso alimenta tanto Carta quanto Mini Webinar.
 
 ### Passo 4, Adapta o Discurso Base aos 12 blocos
-Pega cada um dos 7 passos do Discurso Base e expande pros 12 blocos da Micro Aula conforme mapeamento (seção "Mapeamento Discurso Base → 12 blocos da Micro Aula").
+Pega cada um dos 7 passos do Discurso Base e expande pros 12 blocos da Mini Webinar conforme mapeamento (seção "Mapeamento Discurso Base → 12 blocos da Mini Webinar").
 
 ### Passo 5, Aplica princípios universais desejo
 Densidade > extensão · faca Soft (resultado e função, não passo executável) · tom Soft (clínico) · zero motivacional.
@@ -397,18 +397,18 @@ Roteiro pronto pra gravar em markdown Notion-compatível, com timestamps e indic
 
 ---
 
-## Página de hospedagem da Micro Aula
+## Página de hospedagem da Mini Webinar
 
-A Micro Aula vive numa página enxuta, não numa landing page argumentativa. A página é **vitrine**, não argumento. O argumento inteiro vive dentro do vídeo.
+A Mini Webinar vive numa página enxuta, não numa landing page argumentativa. A página é **vitrine**, não argumento. O argumento inteiro vive dentro do vídeo.
 
 ### Estrutura mínima (6 elementos · nada mais)
 
 | Elemento | Função |
 |---|---|
-| **1. Headline** | Promessa principal em 1 frase. Espelho da Promessa direta do Bloco A.1 da Micro Aula. |
+| **1. Headline** | Promessa principal em 1 frase. Espelho da Promessa direta do Bloco A.1 da Mini Webinar. |
 | **2. Subheadline** | Amplificador da promessa em 1 linha. O "sem" ou o filtro de avatar. |
 | **3. Pra quem é** | Lista de 4-6 perfis específicos (mesma filtragem do Bloco A.1). Quem se reconhece, fica. |
-| **4. Vídeo** | Player da Micro Aula. Centro absoluto da página. |
+| **4. Vídeo** | Player da Mini Webinar. Centro absoluto da página. |
 | **5. Provas (muitas)** | Depoimentos, prints de pagamento, cases com nome + número + prazo. Quantidade > polimento. |
 | **6. Botão (CTA)** | Link único pro próximo passo (Carta, WhatsApp, Reunião). Aparece no final, depois do vídeo. |
 
@@ -423,9 +423,9 @@ A Micro Aula vive numa página enxuta, não numa landing page argumentativa. A p
 
 ### Princípio raiz
 
-> **Quando a página emoldura o vídeo, o texto fora do vídeo é mínimo. O argumento vive dentro da Micro Aula. A página só ancora e dispara ação.**
+> **Quando a página emoldura o vídeo, o texto fora do vídeo é mínimo. O argumento vive dentro da Mini Webinar. A página só ancora e dispara ação.**
 
-Se precisar de texto argumentativo na página, o formato certo é Carta Minimalista ou Landing Page (skill `soft-funil`), não Micro Aula.
+Se precisar de texto argumentativo na página, o formato certo é Mini Carta ou Landing Page (skill `soft-funil`), não Mini Webinar.
 
 ### Modelo de página (referência visual)
 
@@ -460,9 +460,9 @@ Se precisar de texto argumentativo na página, o formato certo é Carta Minimali
 
 ---
 
-## Métricas e diagnóstico da Micro Aula
+## Métricas e diagnóstico da Mini Webinar
 
-A Micro Aula é mensurável de forma direta. Cada métrica aponta pra um problema específico de origem.
+A Mini Webinar é mensurável de forma direta. Cada métrica aponta pra um problema específico de origem.
 
 ### Métricas-âncora
 
@@ -511,15 +511,15 @@ Não são regras absolutas, são pontos de partida pra comparação interna do p
 
 - ❌ Especialista que detesta gravar vídeo (Carta resolve com menos atrito)
 - ❌ Nicho regulado (saúde clínica, jurídico, terapia profunda), promessas em vídeo são mais arriscadas
-- ❌ Especialista que ainda não tem método empacado (Micro Aula expõe lacunas mais rápido que Carta)
+- ❌ Especialista que ainda não tem método empacado (Mini Webinar expõe lacunas mais rápido que Carta)
 
-Nesses casos: Carta Minimalista (`modo-carta-minimalista.md`).
+Nesses casos: Mini Carta (`modo-mini-carta.md`).
 
 ---
 
-## Frase-âncora da Micro Aula
+## Frase-âncora da Mini Webinar
 
-> **A Micro Aula é Carta com câmera.**
+> **A Mini Webinar é Carta com câmera.**
 >
 > **Mesma engenharia. Mesma função. Mídia diferente.**
 >
